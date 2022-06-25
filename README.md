@@ -15,6 +15,13 @@
 ![geo&leo](https://www.satellitephonereview.com/wp-content/uploads/sites/171/2020/01/Geo_Leo_orbit.png)
 
 ## Terrestrial vs. Satellite Internet
+* កាលពីមុន ប្រព័ន្ធទូរគមនាគមន៍ដោយប្រើប្រាស់ផ្កាយរណប ត្រូវបានផ្តល់ជាចម្បងដោយបច្ចេកវិទ្យាផ្កាយរណបនៅGEO
+* ប៉ុន្តែពេលនេះ ពិភពលោកកំពុងងាកទៅប្រើប្រាស់បច្ចេកវិទ្យផ្កាយរណបនៅLEOម្តង
+* បើប្រៀបធៀបទៅនឹងផ្កាយរណបនៅGEO ផ្កាយរណបនៅLEO
+  * មានទីតាំងនៅជិតផែនដីប្រហែលជាង ៥០ ដង
+  * ជាធម្មតាផ្តល់នូវភាពយឺតយ៉ាវទាប (តិចជាង 30ms)
+  * ផ្តល់កម្រិតបញ្ជូនខ្ពស់ (ប្រហែល 100Mbps)
+* ចំនុចខុសគ្នារវាងប្រព័ន្ធអ៊ីនធឺណិតលើដី និងផ្កាយរណប
 
 ![Terra&SatInternet](https://web-assets.bcg.com/dims4/default/007b8f1/2147483647/strip/true/crop/2180x1270+0+0/resize/2880x1678!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
 
