@@ -16,11 +16,7 @@
 
 ## Terrestrial vs. Satellite Internet
 
-## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
-* LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
-* សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
-  * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
-  * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
+![Terra&SatInternet](http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
 
 ## Emerging LEO Satellite Constellations
 * Starlink
@@ -28,6 +24,12 @@
 * TeleSat
 * Project Kuiper
 * Table below show the main difference between them
+
+## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
+* LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
+* សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
+  * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
+  * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
 
 ## FAQ
 
