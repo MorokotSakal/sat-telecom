@@ -4,7 +4,7 @@
 
 ## សេចក្តីផ្តើម
 * សព្វថ្ងៃនេះ [ជាងមួយភាគបី](https://www.itu.int/itu-d/reports/statistics/facts-figures-2021/)នៃប្រជាជននៅក្នុងពិភពលោក មិនមានប្រព័ន្ធអ៊ីនធឺណិតប្រើប្រាស់ទេ 
-* ផ្កាយរណបក្នុងគន្លងផែនដីទាប (LEO) ត្រូវបានគេព្យាករណ័ថាជាបច្ចេកវិទ្យាសម្រាប់បដិវត្តអ៊ីនធឺណិត
+* ផ្កាយរណបក្នុងគន្លងផែនដីទាប (LEO Sat) ត្រូវបានគេព្យាករណ័ថាជាបច្ចេកវិទ្យាសម្រាប់បដិវត្តអ៊ីនធឺណិត
 * ផ្កាយរណបនឹងអាចជួយ
   * ភ្ជាប់ប្រព័ន្ធទូរគមនាគមន៍ទូទាំងពិភពលោក 
   * បំបាត់ការបែងចែកឌីជីថលរវាងទីក្រុង និងតំបន់ជនបទដាច់ស្រយាល
@@ -21,6 +21,13 @@
 * សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
+
+## Emerging LEO Satellite Constellations
+* Starlink
+* OneWeb
+* TeleSat
+* Project Kuiper
+* Table below show the main difference between them
 
 ## FAQ
 
