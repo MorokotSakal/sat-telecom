@@ -16,7 +16,7 @@
 
 ## Terrestrial vs. Satellite Internet
 
-![Terra&SatInternet](http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
+![Terra&SatInternet](http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg](https://web-assets.bcg.com/dims4/default/007b8f1/2147483647/strip/true/crop/2180x1270+0+0/resize/2880x1678!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
 
 ## Emerging LEO Satellite Constellations
 * Starlink
