@@ -11,7 +11,9 @@
 
 ## GEO vs. LEO Satellite
 
-## Tererrestial vs. Satellite Internet
+## Terrestrial vs. Satellite Internet
+
+## FAQ
 
 ## មាតិកាអត្ថបទ
 * ផ្កាយរណប Starlink និងដំនើរការរបស់វា
