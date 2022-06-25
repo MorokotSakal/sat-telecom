@@ -32,6 +32,10 @@
 * Project Kuiper
 * Table below show the main difference between them
 
+|           | Starlink | OneWeb | TeleSat | Project Kuiper |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
 * សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
