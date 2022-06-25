@@ -27,10 +27,11 @@
 ![Terra&SatInternet](https://web-assets.bcg.com/dims4/default/007b8f1/2147483647/strip/true/crop/2180x1270+0+0/resize/2880x1678!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
 
 ## Emerging LEO Satellite Constellations
-* Starlink
-* OneWeb
-* TeleSat
-* Project Kuiper
+* សព្វថ្ងៃនេះ មានគម្រងប្រព័ន្ធផ្កាយរណបនៅLEOចំនួនបួនធំៗ
+  * Starlink
+  * OneWeb
+  * TeleSat
+  * Project Kuiper
 * តារាងខាងក្រោមបង្ហាញពី ចំនុចខុសគ្នារវាងប្រព័ន្ធផ្កាយរណបនីមួយៗ
 
 |           | Starlink | OneWeb | Telesat | Project Kuiper |
