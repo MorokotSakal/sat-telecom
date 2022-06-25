@@ -32,9 +32,13 @@
 * Project Kuiper
 * Table below show the main difference between them
 
-|           | Starlink | OneWeb | TeleSat | Project Kuiper |
+|           | Starlink | OneWeb | Telesat | Project Kuiper |
 | --- | --- | --- | --- | --- |
-|  |  |  |  |  |
+| Constellation Size | 4,409 | 588 | 298 | 3,236 |
+| Frequency Band | Ka gateway, Ku users | Ka gateway Ku users| Ka | Ka |
+| Orbit | 550 km | 1,200 km | 1000 km | 600 km |
+| Capacity | ~75 Tbps | ~5 Tbps | ~12 Tbps | ~30-32 Tbps |
+| Target Markets | Residential broadband, government | Wholesale, B2B, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, governemnt | Residential broadband, enterprise, backhual, mobility |
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
