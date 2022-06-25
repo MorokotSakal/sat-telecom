@@ -15,11 +15,11 @@
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន
- * គន្លងផ្កាយរណប 
- * កំទេចកំទីអវកាសដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
+  * គន្លងផ្កាយរណប 
+  * កំទេចកំទីអវកាសដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
 * សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
- * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
- * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
+  * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
+  * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
 
 ## FAQ
 
