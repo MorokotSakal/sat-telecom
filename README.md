@@ -33,7 +33,7 @@
 * Table below show the main difference between them
 
 |           | Starlink | OneWeb | Telesat | Project Kuiper |
-| --- | --- | --- | --- | --- |
+| --- | :---: | :---: | :---: | :---: |
 | Constellation Size | 4,409 | 588 | 298 | 3,236 |
 | Frequency Band | Ka gateway, Ku users | Ka gateway Ku users| Ka | Ka |
 | Orbit | 550 km | 1,200 km | 1000 km | 600 km |
