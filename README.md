@@ -13,6 +13,12 @@
 
 ## Terrestrial vs. Satellite Internet
 
+## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
+LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដានគន្លងផ្កាយរណប និងកំទេចកំទីអវកាសដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណបក្នុងគន្លង
+សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
+* [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
+* [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
+
 ## FAQ
 
 ## មាតិកាអត្ថបទ
