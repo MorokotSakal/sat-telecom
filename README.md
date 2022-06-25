@@ -10,6 +10,9 @@
   * បំបាត់ការបែងចែកឌីជីថលរវាងទីក្រុង និងតំបន់ជនបទដាច់ស្រយាល
 
 ## GEO vs. LEO Satellite
+* ចំនុចខុសគ្នារវាងផ្កាយរណបនៅគន្លងខ្ពស់ (GEO) និងគន្លងទាប (LEO)
+
+![geo&leo]https://www.satellitephonereview.com/wp-content/uploads/sites/171/2020/01/Geo_Leo_orbit.png
 
 ## Terrestrial vs. Satellite Internet
 
