@@ -39,6 +39,7 @@
 | Orbit | 550 km | 1,200 km | 1000 km | 600 km |
 | Capacity | ~75 Tbps | ~5 Tbps | ~12 Tbps | ~30-32 Tbps |
 | Target Markets | Residential broadband, government | Wholesale, B2B, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, government | Residential broadband, enterprise, backhual, mobility |
+| Status (June, 2022) | Partially operational | Testing | In development | In development |
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
