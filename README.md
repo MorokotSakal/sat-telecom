@@ -8,6 +8,14 @@
 * ផ្កាយរណបនឹងអាចជួយ
   * ភ្ជាប់ប្រព័ន្ធទូរគមនាគមន៍ទូទាំងពិភពលោក 
   * បំបាត់ការបែងចែកឌីជីថលរវាងទីក្រុង និងតំបន់ជនបទដាច់ស្រយាល
+ 
+## Why Satellite?
+* Factor #1
+* Factor #2
+
+## Satellite Connectivity
+
+Figure of connection between ISP To Sat, Sat to User Terminal
 
 ## GEO vs. LEO Satellite
 * ចំនុចខុសគ្នារវាងផ្កាយរណបនៅគន្លងខ្ពស់ (GEO) និងគន្លងទាប (LEO)
@@ -33,6 +41,15 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
 
 ![Terra&SatInternet](https://web-assets.bcg.com/dims4/default/007b8f1/2147483647/strip/true/crop/2180x1270+0+0/resize/2880x1678!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
 
+## Adoption Challenges
+* Afforability
+  * lower income populations still find prices unaffordables
+* Device Requirement
+  * requires terminals and roof-mounted antennas
+* Availability of Power
+  * terminals require 50-150 watts of electricity
+* Price
+
 ## Emerging LEO Satellite Constellations
 * សព្វថ្ងៃនេះ មានគម្រងប្រព័ន្ធផ្កាយរណបនៅLEOចំនួនបួនធំៗ
   * Starlink
@@ -56,6 +73,12 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
 * សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
+
+## Example: Starlink
+
+![StarlinkInternet](https://c.tenor.com/oN6w2xP776gAAAAC/spacexstarlink.gif)
+
+![LEOSatFrGround](./img/LEOSatFrGround.gif)
 
 ## FAQ (កំពុងរៀបចំ)
 
