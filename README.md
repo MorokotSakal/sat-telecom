@@ -14,6 +14,14 @@
 
 ![geo&leo](https://www.satellitephonereview.com/wp-content/uploads/sites/171/2020/01/Geo_Leo_orbit.png)
 
+* តារាងខាងក្រោមបង្ហាញពី ចំនុចខុសគ្នារវាងផ្កាយរណបនៅគន្លងខ្ពស់ (GEO) និងគន្លងទាប (LEO)
+|           | Altitude | Orbital Period | Latency | Number of Satellites to Span Globe | Cost per Satellite ($) | Effective Lifetime of Satellite |
+| --- | :---: | :---: | :---: | :---: | :---: | :---: |
+| GEO |  |  |  |  |  | |
+| LEO |  |  |  |  |  | |
+
+Source: International Telecommunication Union. 2020. [The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites](https://www.itu.int/en/ITU-D/Technology/Documents/LMC/The%20Last-Mile%20Internet%20Connectivity%20Solutions%20Guide.pdf).
+
 ## Terrestrial vs. Satellite Internet
 * កាលពីមុន ប្រព័ន្ធទូរគមនាគមន៍ដោយប្រើប្រាស់ផ្កាយរណប ត្រូវបានផ្តល់ជាចម្បងដោយបច្ចេកវិទ្យាផ្កាយរណបនៅGEO
 * ប៉ុន្តែពេលនេះ ពិភពលោកកំពុងងាកទៅប្រើប្រាស់បច្ចេកវិទ្យផ្កាយរណបនៅLEOម្តង
