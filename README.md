@@ -15,6 +15,7 @@
 ![geo&leo](https://www.satellitephonereview.com/wp-content/uploads/sites/171/2020/01/Geo_Leo_orbit.png)
 
 * តារាងខាងក្រោមបង្ហាញពី ចំនុចខុសគ្នារវាងផ្កាយរណបនៅគន្លងខ្ពស់ (GEO) និងគន្លងទាប (LEO)
+
 |           | Altitude | Orbital Period | Latency | Number of Satellites to Span Globe | Cost per Satellite ($) | Effective Lifetime of Satellite |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | GEO |  |  |  |  |  | |
