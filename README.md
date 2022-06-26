@@ -18,8 +18,8 @@
 
 |           | Altitude | Orbital Period | Latency | Number of Satellites to Span Globe | Cost per Satellite ($) | Effective Lifetime of Satellite |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
-| GEO |  |  |  |  |  | |
-| LEO |  |  |  |  |  | |
+| GEO | 35,786 km | 24 hours | ~477 ms | 3 | Approx. 100–400 million | 15–20 years |  
+| LEO | 160–2,000 km | 88–127 min | ~2–27 ms | hundreds or thousands (depending on altitude) Approx. 0.5–45 million | 5–10 years |
 
 Source: International Telecommunication Union. 2020. [The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites](https://www.itu.int/en/ITU-D/Technology/Documents/LMC/The%20Last-Mile%20Internet%20Connectivity%20Solutions%20Guide.pdf).
 
@@ -51,6 +51,8 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
 | Capacity | ~75 Tbps | ~5 Tbps | ~12 Tbps | ~30-32 Tbps |
 | Target Markets | Residential broadband, government | Wholesale, B2B, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, government | Residential broadband, enterprise, backhual, mobility |
 | Status (June, 2022) | Partially operational | Testing | In development | In development |
+
+* បើប្រៀបធៀបគម្រោងទាំងបួនខាងលើ Starlink គឺនាំមុខគូប្រជែងរបស់ខ្លួន ចំពោះចំនួនផ្កាយរណបនៅលើគន្លង និងសេវាកម្ម
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
