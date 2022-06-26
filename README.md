@@ -18,6 +18,12 @@
 
 ![SatConnectivity](./img/SatConnectivity.png)
 
+Notes: 
+* PoP: Point of Present
+* SIO: Service In Operation
+
+Source: 
+
 ## GEO vs. LEO Satellite
 * ចំនុចខុសគ្នារវាងផ្កាយរណបនៅគន្លងខ្ពស់ (GEO) និងគន្លងទាប (LEO)
 
