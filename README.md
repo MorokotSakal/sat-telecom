@@ -24,13 +24,11 @@
 Source: International Telecommunication Union. 2020. [The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites](https://www.itu.int/en/ITU-D/Technology/Documents/LMC/The%20Last-Mile%20Internet%20Connectivity%20Solutions%20Guide.pdf).
 
 ## Terrestrial vs. Satellite Internet
-* កាលពីមុន ប្រព័ន្ធទូរគមនាគមន៍ដោយប្រើប្រាស់ផ្កាយរណប ត្រូវបានផ្តល់ជាចម្បងដោយបច្ចេកវិទ្យាផ្កាយរណបនៅGEO
-* ប៉ុន្តែពេលនេះ ពិភពលោកកំពុងងាកទៅប្រើប្រាស់បច្ចេកវិទ្យផ្កាយរណបនៅLEOម្តង
-* បើប្រៀបធៀបទៅនឹងផ្កាយរណបនៅGEO ផ្កាយរណបនៅLEO មានទីតាំងនៅជិតផែនដីប្រហែលជាង ៥០ ដង
-* ចំនុចពិសេសរបស់ប្រព័ន្ធអ៊ីនធឺណិតដោយផ្កាយរណបនៅLEO
-  * ផ្តល់នូវភាពយឺតយ៉ាវទាប (តិចជាង 30ms) / low latency
+* កាលពីមុន ប្រព័ន្ធទូរគមនាគមន៍ដោយប្រើប្រាស់ផ្កាយរណប ត្រូវបានផ្តល់ជាចម្បងដោយបច្ចេកវិទ្យាផ្កាយរណបនៅGEO ប៉ុន្តែពេលនេះ ពិភពលោកកំពុងងាកទៅប្រើប្រាស់បច្ចេកវិទ្យផ្កាយរណបនៅLEOម្តង
+* បើប្រៀបធៀបទៅនឹងផ្កាយរណបនៅGEO ផ្កាយរណបនៅLEO មានទីតាំងនៅជិតផែនដីប្រហែលជាង ៥០ ដង ហើយចំនុចពិសេសរបស់ប្រព័ន្ធអ៊ីនធឺណិតដោយផ្កាយរណបនៅLEO មានដូចជា
+  * ផ្តល់នូវភាពរអាល់រអួលទាប (តិចជាង 30ms) / low latency
   * ផ្តល់កម្រិតបញ្ជូនខ្ពស់ (ប្រហែល 100Mbps) / high throughput
-  * សេវាគ្របដណ្តប់ជំវិញពិភពលោក / global coverage
+  * ផ្តល់សេវាគ្របដណ្តប់ជំវិញពិភពលោក / global coverage
 * តារាងខាងក្រោមបង្ហាញពី ចំនុចខុសគ្នារវាងប្រព័ន្ធអ៊ីនធឺណិតលើដី និងផ្កាយរណប
 
 ![Terra&SatInternet](https://web-assets.bcg.com/dims4/default/007b8f1/2147483647/strip/true/crop/2180x1270+0+0/resize/2880x1678!/quality/90/?url=http%3A%2F%2Fboston-consulting-group-brightspot.s3.amazonaws.com%2F20%2F1c%2Fa89b9bb346a99df5dc2f972be618%2Fexhibit-1.jpg)
@@ -41,6 +39,7 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
   * OneWeb
   * Telesat
   * Project Kuiper
+* បើប្រៀបធៀបគម្រោងទាំងបួនខាងលើ Starlink គឺនាំមុខគូប្រជែងរបស់ខ្លួន ចំពោះចំនួនផ្កាយរណបនៅលើគន្លង និងសេវាកម្ម
 * តារាងខាងក្រោមបង្ហាញពី ចំនុចខុសគ្នារវាងប្រព័ន្ធផ្កាយរណបនីមួយៗ
 
 |           | Starlink | OneWeb | Telesat | Project Kuiper |
@@ -51,8 +50,6 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
 | Capacity | ~75 Tbps | ~5 Tbps | ~12 Tbps | ~30-32 Tbps |
 | Target Markets | Residential broadband, government | Wholesale, B2B, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, government | Residential broadband, enterprise, backhual, mobility |
 | Status (June, 2022) | Partially operational | Testing | In development | In development |
-
-* បើប្រៀបធៀបគម្រោងទាំងបួនខាងលើ Starlink គឺនាំមុខគូប្រជែងរបស់ខ្លួន ចំពោះចំនួនផ្កាយរណបនៅលើគន្លង និងសេវាកម្ម
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
