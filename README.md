@@ -57,6 +57,12 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
 
+## Example: Starlink
+
+![StarlinkInternet](https://gfycat.com/firstperkybrahmanbull-university-college-london-megaconstellations)
+
+![LEOSatFrGround](./img/LEOSatFrGround.gif)
+
 ## FAQ (កំពុងរៀបចំ)
 
 ## មាតិកាអត្ថបទ
