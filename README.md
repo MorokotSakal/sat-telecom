@@ -14,8 +14,9 @@
 * Factor #2
 
 ## Satellite Connectivity
+* Figure below shows connection between ISP To Sat, Sat to User Terminal
 
-Figure of connection between ISP To Sat, Sat to User Terminal
+![SatConnectivity](./img/SatConnectivity.png)
 
 ## GEO vs. LEO Satellite
 * ចំនុចខុសគ្នារវាងផ្កាយរណបនៅគន្លងខ្ពស់ (GEO) និងគន្លងទាប (LEO)
