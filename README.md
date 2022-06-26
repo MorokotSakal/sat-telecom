@@ -19,7 +19,7 @@
 |           | Altitude | Orbital Period | Latency | Number of Satellites to Span Globe | Cost per Satellite ($) | Effective Lifetime of Satellite |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: |
 | GEO | 35,786 km | 24 hours | ~477 ms | 3 | Approx. 100–400 million | 15–20 years |  
-| LEO | 160–2,000 km | 88–127 min | ~2–27 ms | hundreds or thousands (depending on altitude) Approx. 0.5–45 million | 5–10 years |
+| LEO | 160–2,000 km | 88–127 min | ~2–27 ms | hundreds or thousands (depending on altitude) | Approx. 0.5–45 million | 5–10 years |
 
 Source: International Telecommunication Union. 2020. [The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites](https://www.itu.int/en/ITU-D/Technology/Documents/LMC/The%20Last-Mile%20Internet%20Connectivity%20Solutions%20Guide.pdf).
 
