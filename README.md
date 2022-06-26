@@ -58,8 +58,8 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
 
-## FAQ
+## FAQ (កំពុងរៀបចំ)
 
 ## មាតិកាអត្ថបទ
-* ផ្កាយរណប Starlink និងដំនើរការរបស់វា
-* ផ្កាយរណប OneWeb និងដំនើរការរបស់វា
+* ផ្កាយរណប Starlink និងដំនើរការរបស់វា (កំពុងរៀបចំ)
+* ផ្កាយរណប OneWeb និងដំនើរការរបស់វា (កំពុងរៀបចំ)
