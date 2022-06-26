@@ -59,7 +59,7 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
 
 ## Example: Starlink
 
-![StarlinkInternet](https://gfycat.com/firstperkybrahmanbull-university-college-london-megaconstellations)
+![StarlinkInternet](https://c.tenor.com/oN6w2xP776gAAAAC/spacexstarlink.gif)
 
 ![LEOSatFrGround](./img/LEOSatFrGround.gif)
 
