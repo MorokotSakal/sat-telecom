@@ -17,7 +17,7 @@ Source: Arndt Husar, 2022. [Digital Connectivity and Low Earth Orbit Constellati
 
 ## ផ្កាយរណបសម្រាប់អ៊ិនធឺណិត Broadband
 * រូបភាពខាងក្រោមបង្ហាញពីការតភ្ជាប់រវាង ISP ទៅផ្កាយរណប និងផ្កាយរណបទៅស្ថានីយអ្នកប្រើប្រាស់
-* ប្រព័ន្ធនេះអាចដំណើរការបានត្រូវការរបស់បី
+* ប្រព័ន្ធនេះអាចដំណើរការបានដោយមាន
   * ផ្កាយរណបនៅ LEO
   * ស្ថានីយGateway
   * User terminal
@@ -72,7 +72,7 @@ Source: BCG Analysis, 2021. [LEO Satellites: A Technology to Revolutionize Globa
 | --- | :---: | :---: | :---: | :---: |
 | Constellation Size | 4,409 | 588 | 298 | 3,236 |
 | Frequency Band | Ka for gateway,​​​​ Ku for users | Ka for gateway, Ku for users| Ka | Ka |
-| Orbit | 550 km | 1,200 km | 1000 km | 600 km |
+| Orbit | 550 km | 1,200 km | 1,000 km | 600 km |
 | Capacity | ~75 Tbps | ~5 Tbps | ~12 Tbps | ~30-32 Tbps |
 | Target Markets | Residential broadband, government | Wholesale, Business to business, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, government | Residential broadband, enterprise, backhual, mobility |
 | Status (June, 2022) | Partially operational | Testing | In development | In development |
@@ -85,13 +85,13 @@ Source: Ruth Pritchard-Kelly et al, 2022. [Low Earth Orbit Satellite Systems](ht
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
 
-## Adoption Challenges
-* Afforability
-  * lower income populations still find prices unaffordables
-* Device Requirement
-  * requires terminals and roof-mounted antennas
-* Availability of Power
-  * terminals require 50-150 watts of electricity
+## បញ្ហាប្រឈម | Adoption Challenges
+* តម្លៃ
+  * ប្រជាជនដែលមានប្រាក់ចំណូលទាប មិនមានលទ្ធភាពក្នុងការប្រើប្រាស់
+* តម្រូវការឧបករណ៍
+  * ត្រូវទិញuser terminal និងអង់តែននៅលើដំបូលដែលមានតម្លៃថ្លៃ
+* តម្រូវការនៃប្រព័ន្ធភ្លើង
+  * user terminalប្រើប្រាស់អគ្គិសនីខ្ពស់ 50-150 វ៉ាត់
 
 ## FAQ (កំពុងរៀបចំ)
 
