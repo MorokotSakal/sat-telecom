@@ -85,6 +85,8 @@ Source: Ruth Pritchard-Kelly et al, 2022. [Low Earth Orbit Satellite Systems](ht
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
 
+![LeoLabs](./img/leolabs.png)
+
 ## បញ្ហាប្រឈម | Adoption Challenges
 * តម្លៃ
   * ប្រជាជនដែលមានប្រាក់ចំណូលទាប មិនមានលទ្ធភាពក្នុងការប្រើប្រាស់
