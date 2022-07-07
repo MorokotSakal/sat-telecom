@@ -96,7 +96,10 @@ Source: Ruth Pritchard-Kelly et al, 2022. [Low Earth Orbit Satellite Systems](ht
 * តម្រូវការនៃប្រព័ន្ធភ្លើង
   * user terminalប្រើប្រាស់អគ្គិសនីខ្ពស់ 50-150 វ៉ាត់
 
+Source: Arndt Husar, 2022. [Digital Connectivity and Low Earth Orbit Constellations](https://events.development.asia/materials/20220317/digital-connectivity-and-low-earth-orbit-constellations)
+
 ## FAQ (កំពុងរៀបចំ)
+1. Question #1
 
 ## មាតិកាអត្ថបទ
 * ផ្កាយរណប Starlink និងដំនើរការរបស់វា (កំពុងរៀបចំ)
