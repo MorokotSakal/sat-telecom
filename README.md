@@ -80,7 +80,7 @@ Source: BCG Analysis, 2021. [LEO Satellites: A Technology to Revolutionize Globa
 Source: Ruth Pritchard-Kelly et al, 2022. [Low Earth Orbit Satellite Systems](https://telsoc.org/sites/default/files/journal_article/552-costa-article-v10n1pp1-22.pdf)
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
-* LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
+* [LeoLabs](https://leolabs.space/) (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
 * សូមចុចតំណភ្ជាប់ខាងក្រោមដើម្បីមើលគន្លងរបស់ផ្កាយរណបផ្សេងៗ
   * [Starlink](https://platform.leolabs.space/visualizations/leo#search=starlink;view=objectType)
   * [OneWeb](https://platform.leolabs.space/visualizations/leo#search=oneweb;view=objectType)
