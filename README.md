@@ -9,8 +9,9 @@
  
 ## ហេតុអ្វីត្រូវប្រើផ្កាយរណប?
 * ប្រើផ្កាយរណប ជាវិធីសាស្រ្តដែលចំណាយតិច និងគ្មានភាពស្មុគស្មាញ ក្នុងការផ្តល់សេវាអ៊ីនធឺណិត នៅតំបន់ដែលមានប្រជាជនតិច
-* គ្មានជម្រើសផ្សេង ចំពោះទីតាំងដែលដាច់ស្រយាលខ្លាំង ពិបាកក្នុងធ្វើដំណើរ
+* គ្មានជម្រើសផ្សេង ចំពោះទីតាំងដែលដាច់ស្រយាលខ្លាំង ពិបាកក្នុងការធ្វើដំណើរ
 * អាចប្រើបានភ្លាមៗ ដរាបណាមានផ្កាយរណបដំណើរការ មានស្ថានីយGatewayនៅជិត ហើយមានប្រព័ន្ធភ្លើងនៅទីតាំងនោះ
+* មិនងាយរងការប៉ះពាល់ផ្សេងៗ ដោយផ្កាយរណបនៅលើលំហអវកាស
 
 Source: Arndt Husar, 2022. [Digital Connectivity and Low Earth Orbit Constellations](https://events.development.asia/materials/20220317/digital-connectivity-and-low-earth-orbit-constellations)
 
@@ -46,7 +47,7 @@ Source: Satellite Phone Review [Satellite Orbit Type](https://www.satellitephone
 
 Source: International Telecommunication Union. 2020. [The Last-Mile Internet Connectivity Solutions Guide: Sustainable Connectivity Options for Unconnected Sites](https://www.itu.int/en/ITU-D/Technology/Documents/LMC/The%20Last-Mile%20Internet%20Connectivity%20Solutions%20Guide.pdf).
 
-## Terrestrial vs. Satellite Internet
+## ប្រព័ន្ធអ៊ីនធឺណិតលើដី និងប្រព័ន្ធអ៊ីនធឺណិតប្រើផ្កាយរណប
 * កាលពីមុន ប្រព័ន្ធទូរគមនាគមន៍ដោយប្រើប្រាស់ផ្កាយរណប ត្រូវបានផ្តល់ជាចម្បងដោយបច្ចេកវិទ្យាផ្កាយរណបនៅGEO ប៉ុន្តែពេលនេះ ពិភពលោកកំពុងងាកទៅប្រើប្រាស់បច្ចេកវិទ្យផ្កាយរណបនៅLEOម្តង
 * បើប្រៀបធៀបទៅនឹងផ្កាយរណបនៅGEO ផ្កាយរណបនៅLEO មានទីតាំងនៅជិតផែនដីប្រហែលជាង ៥០ ដង ហើយចំនុចពិសេសរបស់ប្រព័ន្ធអ៊ីនធឺណិតដោយផ្កាយរណបនៅLEO មានដូចជា
   * ផ្តល់នូវភាពរអាក់រអួលទាប (តិចជាង 30ms) / low latency
@@ -58,8 +59,8 @@ Source: International Telecommunication Union. 2020. [The Last-Mile Internet Con
 
 Source: BCG Analysis, 2021. [LEO Satellites: A Technology to Revolutionize Global Connectivity?](https://www.bcg.com/publications/2021/leo-satellites-unlock-connectivity-opportunity)
 
-## Emerging LEO Satellite Constellations
-* សព្វថ្ងៃនេះ មានគម្រងប្រព័ន្ធផ្កាយរណបនៅLEOចំនួនបួនធំៗ
+## គម្រងប្រព័ន្ធផ្កាយរណបធំៗនៅLEO
+* សព្វថ្ងៃនេះ មានគម្រងប្រព័ន្ធផ្កាយរណបនៅLEOធំៗចំនួនបួន
   * Starlink
   * OneWeb
   * Telesat
@@ -73,10 +74,10 @@ Source: BCG Analysis, 2021. [LEO Satellites: A Technology to Revolutionize Globa
 | Frequency Band | Ka for gateway,​​​​ Ku for users | Ka for gateway, Ku for users| Ka | Ka |
 | Orbit | 550 km | 1,200 km | 1000 km | 600 km |
 | Capacity | ~75 Tbps | ~5 Tbps | ~12 Tbps | ~30-32 Tbps |
-| Target Markets | Residential broadband, government | Wholesale, B2B, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, government | Residential broadband, enterprise, backhual, mobility |
+| Target Markets | Residential broadband, government | Wholesale, Business to business, backhaul, enterprise, government, mobility | Backhaul, mobility, enterprise, government | Residential broadband, enterprise, backhual, mobility |
 | Status (June, 2022) | Partially operational | Testing | In development | In development |
 
-
+Source: Ruth Pritchard-Kelly et al, 2022. [Low Earth Orbit Satellite Systems](https://telsoc.org/sites/default/files/journal_article/552-costa-article-v10n1pp1-22.pdf)
 
 ## មើលគន្លងផ្កាយរណបតាមវេបសាយLeoLabs
 * LeoLabs (Low-Earth orbit Labs) គឺជាក្រុមហ៊ុនដែលផ្តល់សេវាកម្មតាមដាន គន្លងផ្កាយរណប (satellites' orbit) និងកំទេចកំទីអវកាស (space debris) ដែលអាចបង្កគ្រោះថ្នាក់ដល់ផ្កាយរណប
