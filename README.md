@@ -15,6 +15,14 @@
 
 Source: Arndt Husar, 2022. [Digital Connectivity and Low Earth Orbit Constellations](https://events.development.asia/materials/20220317/digital-connectivity-and-low-earth-orbit-constellations)
 
+## Application of Satellite Broadband
+* Rural remote areas internet connectivity
+* Maritime
+* Inflight Wi-Fi for aviation
+* Emergency response
+* Military
+* IoT
+
 ## ផ្កាយរណបសម្រាប់អ៊ិនធឺណិត Broadband
 * រូបភាពខាងក្រោមបង្ហាញពីការតភ្ជាប់រវាង ISP ទៅផ្កាយរណប និងផ្កាយរណបទៅស្ថានីយអ្នកប្រើប្រាស់
 * ប្រព័ន្ធនេះអាចដំណើរការបានដោយមាន
